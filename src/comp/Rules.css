@@ -1,0 +1,17 @@
+.contain{
+    max-width: 794px;
+    margin:0 auto;
+    background-color: rgba(251, 241, 241,1);
+    padding:20px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+p{
+    line-height: 24px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin-top: 24px;
+}

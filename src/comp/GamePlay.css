@@ -1,0 +1,21 @@
+.flex{
+    width: 1280px;
+    display: flex;
+    justify-content: space-around;
+}
+.end{
+    text-align: end;
+}
+.score{
+    display: flex;
+    justify-content: center;
+}
+main{
+    padding-top: 70px;
+}
+.rule{
+    align-items: center;
+}
+.error{
+    color: red;
+}
